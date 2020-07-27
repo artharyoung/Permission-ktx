@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Permission-ktx.iml" filepath="$PROJECT_DIR$/.idea/modules/Permission-ktx.iml" group="Permission-ktx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Permission-ktx/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycle-permission/lifecycle-permission.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycle-permission/lifecycle-permission.iml" group="Permission-ktx/lifecycle-permission" />
+    </modules>
+  </component>
+</project>

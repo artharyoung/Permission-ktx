@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Permission-ktx</string>
+
+    <string name="tip_permission_title_camera">开启相机权限</string>
+    <string name="tip_permission_title_storage">开启存储权限</string>
+    <string name="tip_permission_title_location">开启位置权限</string>
+    <string name="tip_permission_title_microphone">开启麦克风权限</string>
+    <string name="tip_permission_title_telephone">开启电话权限</string>
+    <string name="tip_permission_title_message">开启短信权限</string>
+
+
+    <string name="tip_permission_content_camera">为了方便您快速扫描、拍摄运单号等功能，当前应用将获取您的相机权限</string>
+    <string name="tip_permission_content_storage">为了保证您的正常使用，当前应用将获取您的存储权限</string>
+    <string name="tip_permission_content_location">为了保证您正常获取柜机信息、安全使用快递服务，当前应用将获取您的位置权限</string>
+    <string name="tip_permission_content_microphone">为了方便您正常使用语音输入等功能，当前应用将获取您的麦克风权限</string>
+    <string name="tip_permission_content_telephone">为了方便您使用拨打和管理电话等功能，当前应用将获取您的电话权限</string>
+    <string name="tip_permission_content_message">为了方便您及时获取短信消息通知，当前应用将获取您的短信权限</string>
+
+    <string name="permission_notification_denied_tip">请在设置中开启通知权限后再试！</string>
+    <string name="permission_external_sdcard_denied_tip">请在设置中开启存储空间权限后再试！</string>
+    <string name="permission_camera_denied_tip">请在设置中开启相机权限后再试！</string>
+    <string name="permission_call_phone_denied_tip">请在设置中开启拨号权限后再试！</string>
+    <string name="permission_phone_state_denied_tip">请在设置中开启设备信息权限后再试！</string>
+    <string name="permission_location_rationale_denied_tip">请在设置中开启定位权限后再试！</string>
+    <string name="permission_record_audio_denied_tip">请在设置中开启录音权限后再试！</string>
+    <string name="permission_sms_denied_tip">请在设置中开启短信权限后再试！</string>
+</resources>
